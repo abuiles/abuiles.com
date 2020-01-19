@@ -6,3 +6,8 @@
 The tendency to search for, interpret, favor, and recall information
 in a way that confirms or strengthens one's prior personal beliefs or
 hypotheses.
+* Self-fulfilling prophecy
+Self-fulfilling prophecy refers to the socio-psychological phenomenon
+of someone "predicting" or expecting something, and this "prediction"
+or expectation comes true simply because one believes it will, and
+their resulting behaviors align to fulfil those beliefs.

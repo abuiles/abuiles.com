@@ -142,6 +142,50 @@ If I could go back in time, will I make the same choice again?
 #+END_VERSE
 
 ** Chapter 4: Social proof
+#+BEGIN_VERSE
+Where all think alike, no one thinks very much.
+
+   --Walter Lippmann
+#+END_VERSE
+
+The principle of social proof is when the mean we use to determine
+what is correct is to find out what other people think is right.
+
+By looking at what other people are doing, we can have an idea of
+what's the right thing to do, and it might be the right thing to do.
+It gives us a shortcut on how to behave; however, it leaves us
+vulnerable us to those who know how to exploit this weapon.
+
+We are more likely to be victims of the principle of social influence
+when lots of people are doing a specific action. This principle states
+that the higher the number of people who find any idea correct, the
+more the idea will be correct (see [[file:bias.org::Self-fulfilling%20prophecy][self-fulfilling prophecy]]).
+
+We are vulnerable to the social proof principle when we are unsure of
+ourselves, when the situation is unclear or ambiguous, when
+uncertainty reigns, this is when are are most likely to look to and
+accept the actions of others as correct.
+
+Social proof can lead to __pluralistic ignore:__ in which each person
+decides that since nobody is concerned, nothing is wrong. Meanwhile,
+the danger may be mounting to the point where a single individual,
+uninfluenced by the seeming calm of others, would react.
+
+If you ever have a medical emergency in a public place, don't wait for
+someone to help you. Choose someone from the crowd and call that
+person out for help ("You in the blue jacket, call an ambulance!").
+
+Reduce the uncertainties of those around you concerning your condition
+and their responsibilities.
+
+Social proofs operate better on us when we are looking at the behavior
+of those who look like us. We are more inclined to follow the lead of
+a similar individual than a dissimilar one.
+
+The most influential leaders are those who know how to arrange group
+conditions to allow the principle of social proof to work maximally in
+their favor.
+
 ** Chapter 5: Liking
 ** Chapter 6: Authority
 ** Chapter 7: Scarcity
