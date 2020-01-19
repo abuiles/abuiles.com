@@ -1,0 +1,8 @@
+#+TITLE: Bias
+#+TAGS: @psychology
+
+* Biases
+** Confirmation bias
+The tendency to search for, interpret, favor, and recall information
+in a way that confirms or strengthens one's prior personal beliefs or
+hypotheses.

@@ -1,0 +1,14 @@
+#+OPTIONS: toc:nil
+#+TITLE: Books 📚
+
+Notes of some of the books I've read. The list is not up to date, I
+hope to publish more notes as I have time for that. In the meantime,
+you can see what I'm reading in my [[https://www.goodreads.com/user/show/57981314-adolfo-builes][goodreads profile]].
+
+** 2019
+
+1. [[file:deep-work.org][Deep Work]] ⭐⭐⭐⭐⭐
+
+** 2020
+
+1. [[file:influence.org][Influence]] ⭐⭐⭐⭐⭐

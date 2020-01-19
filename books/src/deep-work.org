@@ -1,0 +1,270 @@
+#+TITLE: Deep Work
+* Notes
+Rating: ⭐⭐⭐⭐⭐
+
+My notes from Deep Work: https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692
+
+#+BEGIN_VERSE
+The Deep Work Hypothesis: The ability to perform deep work is becoming
+increasingly rare at exactly the same time it is becoming increasingly
+valuable in our economy. As a consequence, the few who cultivate this
+skill, and then make it the core of their working life, will thrive.
+
+   ---Newport, Cal. Deep Work (p. 14). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+** Main concepts
+- Deep work:
+
+#+BEGIN_VERSE
+Deep Work: Professional activities performed in a state of
+distraction-free concentration that push your cognitive capabilities
+to their limit. These efforts create new value, improve your skill,
+and are hard to replicate.
+
+   ---Newport, Cal. Deep Work (p. 3). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+- Shallow work:
+#+BEGIN_VERSE
+Shallow Work: Noncognitively demanding, logistical-style tasks, often
+performed while distracted. These efforts tend to not create much new
+value in the world and are easy to replicate.
+
+   ---Newport, Cal. Deep Work (p. 6). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+** Part 1: The idea
+*** Chapter 1 - Deep work is  valuable
+Deep work brings benefits, it help us to concentrate on hard problems
+and achieve important things.
+
+In today's economy, three groups will have a particular advantage:
+1. Those who can work well and creatively with intelligent machines
+2. Those who are the best at what they do.
+
+3. Those with access to capital.
+
+To achieve 3 requires capital, but 1 and 2 can be done through deep work.
+
+#+BEGIN_VERSE
+Two Core Abilities for Thriving in the New Economy
+
+1. The ability to quickly master hard things.
+2. The ability to produce at an elite level, in terms of both quality and speed.
+
+   ---Newport, Cal. Deep Work (p. 29). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+
+*** Chapter 2 - Deep work is rare
+Current business trends are making it more difficult to develop deep
+work even though it should be a priority for companies. There are
+multiple reasons for this, among them:
+
+   - A culture of of constant connectivity: It's hard to measure how
+     an instant message or interrupting a coworker. In this kind of
+     settings we will tend towards behaviors that are the easiest at
+     the moment. Principle of least resistant.
+   - People tend to do many different things (mostly shallow work)
+     appearing productive, but this is just Busyness as a proxy for
+     productivity. There is no deep work on things like answering
+     emails or being "present" in slack.
+   - Internet-centrism: Our current culture rewards being visible and
+     appear on internet. However this requires interruptions and make
+     it hard to develop deep work.
+
+#+BEGIN_VERSE
+Deep work is at a severe disadvantage in a techno-poly because it
+builds on values like quality, craftsmanship, and mastery that are
+decidedly old-fashioned and non-technological.
+#+END_VERSE
+
+
+The fact that this trends continues, give you a personal
+advantage. Since deep will become scarce and therefore valuable.
+
+*** Chapter 3 - Deep work is meaningful
+- Deep work can generate as much satisfaction in an information economy as it does in a craft economy.
+- When we interact all the time with shallow concerns there issues remain at the front of our attention
+- Deep work can help us generate flow state.
+  - The content of what we focus on matters.
+  - We can experience a more important and positive life when we can work on important things.
+- From Csikszentmihalyi’s:
+  #+BEGIN_VERSE
+  Ironically, jobs are actually easier to enjoy than free time,
+  because like flow activities they have built-in goals, feedback
+  rules, and challenges, all of which encourage one to become involved
+  in one’s work, to concentrate and lose oneself in it. Free time, on
+  the other hand, is unstructured, and requires much greater effort to
+  be shaped into something that can be enjoyed.
+  #+END_VERSE
+- Gallagher:
+  - The idle mind is the devil's workshop: when we lose focus, we get
+    fix on what is wrong with our life instead of what's right.
+  - Shallow things are draining and upsetting even when they appeared to be fun.
+  - Doing deep work maximizes the meaning and satisfaction associated with our working life.
+** Part 2: The rules
+*** Rule #1: Work deeply
+In an ideal work we should be able to have environments that foster
+deep work, however, that is far from true today, as mentioned in [[Chapter 2 - Deep work is rare][chapter 2]].
+
+Hence we need to work on strategies to achieve deep work. There are different kinds:
+
+- Monastic: This is way of achieving deep work, which consists in disconnecting from the world.
+  - Don Knuth and Neal Stephenson used to work on this modality.
+- Bi-modal: It is a combination between going monastic from a period and then coming back.
+  - Carl Jung used to spend time between a small house in the country side and Vienna.
+- Rhythmic  philosophy: Maintain a visual indicator of your work and set aside specific time for this.
+  - Seinfeld chain method: he use to cross a mark in a calendar every
+    day he'll come up with a new joke. Practicing every day.
+- The journalistic philosophy: Name after the journalist Walter
+  Isaacson, who used to crank deep work sessions every time he would
+  see fit.
+
+Creating rituals around our deep work habits will help us make the most of out it.
+
+#+BEGIN_VERSE
+To make the most out of your deep work sessions, build rituals of the same level of strictness and
+idiosyncrasy as the important thinkers mentioned previously.
+
+  --- Newport, Cal. Deep Work (p. 119). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+- Have rituals:
+  - Where you'll work and for how long.
+  - How you'll work once you start to work. Create metrics and rules, like:
+    - No internet.
+    - X words per 20 mins.
+  - How you'll support your work:
+    - Drink coffee
+    - Have a healthy snack
+    - Go exercise after
+
+- Use the the grand gesture: make a radical change in your work
+  environment with a significant investment of effort or money.
+
+- Don't work alone.
+#+BEGIN_VERSE
+For the sake of discussion, let’s call this principle—that when you
+allow people to bump into each other smart collaborations and new
+ideas emerge—the theory of serendipitous creativity.
+
+  --- Newport, Cal. Deep Work (p. 127). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+- Execute like a business - Based on 4DX:
+  - Discipline #1: Focus on the wildly important, aim at a small number of "wildly important goals"
+  - Discipline #2: Act on the lead measure:
+    - Lag measure: describe the thing you are trying to improve
+    - Lead measure: Measure the new behavior that will drive success on lag measure.
+  - Discipline #3: Keep a completion score board
+  - Discipline #4: Create a cadence of accountability:
+    - Discuss scoreboard.
+    - Commit to specific actions.
+    - Describe what happens with the commitments made in the last meeting.
+
+- Insert downtime:
+  - Downtime aids insights.
+  - Downtime helps recharge the energy needed to work deeply. ATR: https://en.wikipedia.org/wiki/Attention_restoration_theory
+  - The work that evening downtime replaces is usually no that important.
+    Our capacity for deep work is limited.
+
+*** Rule #2: Embrace Boredom
+- We need to rewire our brains to resist distracting stimulus.
+
+
+#+BEGIN_VERSE
+Once your brain has become accustomed to on-demand distraction, it’s
+hard to shake the addiction even when you want to concentrate.
+
+   ---Newport, Cal. Deep Work (pp. 158-159). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+- Don't take breaks from distractions. Instead take breaks from focus.
+  - Create internet blocks and keep stay internet-free in focus blocks.
+
+- Schedule internet use at home and at work, this could help improve our concentration training.
+
+- Meditate productively
+  - Use moments like exercising or doing chores to thing about the
+    hard problems you are trying to solve.
+
+  - Learn memorization techniques and practice.
+
+*** Rule #3: Quit Social Media
+- Network tools fragment our time and reduce our ability to concentrate.
+
+- Avoid the any-benefit approach to tools selection: You are justified
+  in using a network if you can identify any possible benefit to its
+  use, or anything you might possibly miss out if you don't use it.
+  - There services are engineered to be addictive, taking time from
+    activities that support our professional career.
+
+- Follow the craftsman approach to tool selection: Only adop the tools
+  that have a positive impact in your life.
+
+
+- Don't use the internet to entertain yourself.
+
+#+BEGIN_VERSE
+Fortunately, Arnold Bennett identified the solution to this problem a
+hundred years earlier: Put more thought into your leisure time. In
+other words, this strategy suggests that when it comes to your
+relaxation, don’t default to whatever catches your attention at the
+moment, but instead dedicate some advance thinking to the question of
+how you want to spend your “day within a day.” Addictive websites of
+the type mentioned previously thrive in a vacuum: If you haven’t given
+yourself something to do in a given moment, they’ll always beckon as
+an appealing option. If you instead fill this free time with something
+of more quality, their grip on your attention will loosen.
+
+- Newport, Cal. Deep Work (pp. 212-213). Grand Central Publishing. Kindle Edition.
+#+END_VERSE
+
+- Attention is a zero-sum game, what you give to low impact activities
+  is energy you could be given to important tasks.
+
+- Social networks give people a sense of self-importance, making them
+  believe others want to hear what they have to say.
+
+- Put more thought into your leisure time: Ask yourself how do you
+  want to spend you day.
+
+*** Rule #4: Drain the Shallows
+
+- Shallow work isn't necessarily bad, there is a point where you can't
+  keep doing deep work. That's a good time to do shallow work. But we
+  should try to keep it confined.
+
+- Strategies to confine shallow work:
+  - Keep a schedule.
+  - Create task blocks.
+  - Decide in advance what you're going to be doing with every minute of your workday.
+  - Quantify the deep of every activity.
+    #+BEGIN_VERBATIM
+    How long would it take (in months) to train a smart recent college
+    graduate with no specialized training in my field to complete this
+    task?
+
+       ---Newport, Cal. Deep Work (p. 229). Grand Central Publishing. Kindle Edition.
+    #+END_VERBATIM
+  - Bias your tasks towards deep tasks.
+  - Ask you boss for a shallow work budget.
+    - What percentage of your time shall we spent on shallow work.
+  - Have a fix schedule, like finishing work by 5 pm. It helps you
+    prioritize and know what to commit to.
+  - Become hard to reach
+    - Use sender filters.
+    - Do more work when you send or reply to emails.
+      - Ask yourself:
+        #+BEGIN_VERSE
+        What is the project represented by this message, and what is the most
+        efficient (in terms of messages generated) process for bringing this
+        project to a successful conclusion?
+
+           ---Newport, Cal. Deep Work (p. 249). Grand Central Publishing. Kindle
+        Edition.
+        #+END_VERSE
+  - Don't reply to emails. It's the sender responsibility to convince
+    you that you must respond, if you don't, then they didn't do a
+    good job at persuading you.

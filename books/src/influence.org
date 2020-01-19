@@ -1,0 +1,147 @@
+#+TITLE: Influence by Robert Cialdini
+#+TAGS: @psychology @munger @decision_making
+
+* Notes
+
+Rating: ⭐⭐⭐⭐⭐
+
+There are psychological principles and stereotypes that we have
+learned to accept and made part of our decision making toolbox. Each
+day we automatically rely on them to determine what is the best way to
+behave under certain circumstances and help us save time and thinking
+cycles.
+
+While this is not a bug but a feature, it gives those ones who are
+familiar with such principles and stereotypes a weapon which is
+waiting to be exploited. The book talks about those weapons (/weapons
+of influence/) and give us a framework on how to avoid them.
+
+It shows how /reciprocation/, /commitment and consistency/, /social
+proof/, /authority/, /liking/ and /scarcity/ are powerful weapons of
+influence. It includes real life experiments for each weapon and the
+result they had on the people they applied them.
+
+While reading the book I couldn't stop thinking about:
+
+ 1. All the times where I have fallen victim to such weapons.
+ 2. /System 1/ from /Thinking Fast and Slow/.
+ 3. /The Elephant and The Rider/ from /The Righteous Mind/.
+
+The people who know about such weapons, are well familiar with how
+/System 1/ works or that we can barely control /The Elephant/.
+
+5 starts! I'll recommend this book and keep going back to its ideas from time to time.
+
+** Chapter 1: Weapons of influence
+#+BEGIN_VERSE
+Civilization advances by extending the number of important operations
+which we can perform without thinking of them.
+
+   --Alfred North Whitehead
+#+END_VERSE
+
+Humans like some animals have a pre-programmed tape which make us act
+in a certain way when there is a trigger. We can be tricked by someone
+using those triggers to activate certain behaviors even when the
+situation doesn't call for it.
+
+There are many situations where we don't react in a mechanical
+tape-activated way, but it is astonishing how often it does.
+
+Automatic stereotyped behavior is prevalent in human action, because
+in in many cases it is the most efficient form of behaving. Doing this
+allow us to operate without having to think about each decision we are
+about to make.
+
+Some organisms copy the trigger features of other organisms in an
+attempt to trick them into mistakenly playing the right behavior tape
+at the wrong time. Those organisms are called /mimics/.
+
+Humans also have exploiters who mimic trigger features to make us act
+automatically. Those triggers can direct human action.
+
+Our automatic tape developed from psychological principles or
+stereotypes that we learned to accept. These principiles Cialdini says, are
+weapons of influence.
+
+#+BEGIN_VERSE
+In the eye of others, each such principle is a detectable and ready weapon, a weapon of influence.
+
+Weapons of automatic influence exist naturally around us, the exploiters can use the power of those weapons,
+manipulating us without the appearance of manipulation.
+#+END_VERSE
+
+** Chapter 2: Reciprocation
+
+#+BEGIN_VERSE
+Try to repay, in kind, what other person has provided us.
+#+END_VERSE
+
+The rule of reciprocation is on the most potent weapons of influence
+around us. It often produces "yes" responses to a request that, except
+for an existing feeling of indebtedness, would have surely been
+refused.
+
+Uninvited favors enforce reciprocation by triggering a feeling of
+indebtedness.
+
+There are social pressures surrounding gift-giving, which leave us
+with an obligation to give, an obligation to receive, and an
+obligation to repay. Making it hard to turn down favoring
+reciprocation arrangements.
+
+This rule triggers unfair exchanges since small favors often stimulate
+larger returns in favors.
+
+Organizations use this weapon of influence; they send us unwanted
+gifts producing a feeling of obligation, which they exploit when they
+want something from us.
+
+_Reciprocal concession:__ There is an obligation to concede to someone who has conceded to us.
+
+** Chapter 3: Commitment and Consistency
+We want to be and appear consistent with what we have already done.
+
+Once we have made a decision, we find personal and interpersonal
+pressures to behave consistently with that commitment, causing us to
+respond in ways that justify our earlier decision (see [[file:bias.org::*%20Confirmation%20bias][confirmation
+bias]]).
+
+The drive to be and look consistent constitutes a potent weapon of
+social influence, often causing us to act in ways that are contrary to
+our own best interests.
+
+Consistency is powerful because it is valued and
+adaptive. Inconsistency is commonly thought to be undesirable. It is
+in our best interest to be consistent, falling into the habit of being
+automatically so.
+
+Exploiters of this weapon structure their interactions with us so that
+our own needs to be consistent will lead directly to their
+benefit. They often look for commitment, that's the key. If someone
+can get us to make a commitment (that is, to take a stand, to go on
+the record), they will have the stage for our automatic and
+ill-considered consistency with that earlier commitment.
+
+Small commitments alter not only our future behavior but also our
+self-image. Once our self-image is altered, all sorts of subtle
+advantages become available to someone who wants to exploit that new
+image.
+
+The more effort that goes into a commitment, the higher its ability to
+influence the attitude of the person.
+
+We accept inner responsibility for a behavior when we think we have
+chosen to perform it in the absence of outside pressure.
+
+A question to ask yourself and avoid falling into a
+commitment-consistency trap:
+
+#+BEGIN_VERSE
+If I could go back in time, will I make the same choice again?
+#+END_VERSE
+
+** Chapter 4: Social proof
+** Chapter 5: Liking
+** Chapter 6: Authority
+** Chapter 7: Scarcity
