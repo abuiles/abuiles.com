@@ -2,7 +2,7 @@
 #+TAGS: @psychology @munger @decision_making
 
 * Notes
-
+#+BEGIN_REVIEW
 Rating: ⭐⭐⭐⭐⭐
 
 There are psychological principles and stereotypes that we have
@@ -30,8 +30,9 @@ While reading the book I couldn't stop thinking about:
 The people who know about such weapons, are well familiar with how
 /System 1/ works or that we can barely control /The Elephant/.
 
-5 starts! I'll recommend this book and keep going back to its ideas from time to time.
-
+5 starts! I'll recommend this book and keep going back to its ideas
+from time to time.
+#+END_REVIEW
 ** Chapter 1: Weapons of influence
 #+BEGIN_VERSE
 Civilization advances by extending the number of important operations
@@ -187,5 +188,43 @@ conditions to allow the principle of social proof to work maximally in
 their favor.
 
 ** Chapter 5: Liking
+
+We prefer to say yes to the request of someone we known and like. This
+rule is used by a total stranger to get us to comply with their
+request.
+
+What makes us like others?
+
+- Physical attractiveness: This falls into a [[file:bias.org::Halo effect][halo effect]], which is when one positive characteristic of one person dominates the way that a person is viewed by others. Physical attractiveness is often such a characteristic.
+- Similarity: We like people who are similar to us.
+- Compliments: The information that someone fancies us can be an
+  effective device for producing return liking and willing compliance.
+- Contact and cooperation: We are more favorable towards the things we have contact with. Cooperating with others towards the same goals makes us like those people we are working with.
+- Conditioning and association: People have an automated response to things they perceive as merely connected. For example, we dislike people who bring bad news.
+
+To know if the effects of liking are influencing you, look at the
+final result, see if you like the practitioner more than you should
+under normal circumstances.
+
 ** Chapter 6: Authority
+Information from a recognized authority can provide us valuable
+shortcuts for deciding how to act in a situation — taking us to comply
+with the wishes of properly constituted authorities, even when it
+makes no sense at all.
+
+We are vulnerable to the symbols of authority as to the
+substance. Compliance professionals are experts on using those symbols
+in the absence of substance.
+
+Symbols of authority can be titles, clothes, and trappings.
+
+A form of defense against this weapon is to be aware of authority
+power. Coupling with recognition of how easily authority can be faked
+will help us not to fall victim to situations where there is a
+compliance attempt via the authority-influence model.
+
+Ask yourself:
+
+- Is this authority truly an expert?
+- How truthful can we expect the expert to be here?
 ** Chapter 7: Scarcity

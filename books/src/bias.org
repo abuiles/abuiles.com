@@ -1,6 +1,8 @@
 #+OPTIONS: toc:nil
-#+TITLE: Bias
+#+TITLE: Biases
 #+TAGS: @psychology
+
+Each definition here is taken from Wikipedia.
 
 * Confirmation bias
 The tendency to search for, interpret, favor, and recall information
@@ -11,3 +13,15 @@ Self-fulfilling prophecy refers to the socio-psychological phenomenon
 of someone "predicting" or expecting something, and this "prediction"
 or expectation comes true simply because one believes it will, and
 their resulting behaviors align to fulfil those beliefs.
+* Halo effect
+Halo effect is the tendency for positive impressions of a person,
+company, brand or product in one area to positively influence one's
+opinion or feelings in other areas. Is the opposite of the [[Horn effect][horn effect]].
+* Horn effect
+The horn effect, closely related to the [[Halo effect][halo effect]], is a form of
+cognitive bias that causes one's perception of another to be unduly
+influenced by a single negative trait. An example of the horn effect
+may be that an observer is more likely to assume a physically
+unattractive person is morally inferior to an attractive person,
+despite the lack of relationship between morality and physical
+appearance.
