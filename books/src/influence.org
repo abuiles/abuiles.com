@@ -228,3 +228,48 @@ Ask yourself:
 - Is this authority truly an expert?
 - How truthful can we expect the expert to be here?
 ** Chapter 7: Scarcity
+#+BEGIN_VERSE
+The way to love anything is to realize that it might be lost.
+
+   -- G.K. Chesterton
+#+END_VERSE
+Opportunities seem more valuable to us when their availability is limited.
+
+The idea of potential loss plays a large role in human decision
+making. It seems to be more motivated by the thought of losing
+something than by the thought of gaining something of equal value (see
+[[file:bias.org::Loss%20aversion%20bias][loss aversion bias]]).
+
+When someone tells us there is a limited number of things (for example,
+units of a widget), the vendor is likely using the
+principle of scarcity to get us to buy something.
+
+People find themselves doing what they wouldn't normally do, only
+because the time to do so is shrinking.
+
+The power of scarcity comes from two sources:
+
+1. Our weakness for shortcuts. The things that are difficult to possess are typically better than those that are easy to possess. We use an item availability to decide on its quality.
+
+2. As opportunities become less available, we lose freedom; we hate to lose the freedom we already have. This desire to preserve our established prerogatives is the centerpiece of psychological reactance theory.
+
+Reactance theory: when free choice is limited or threatened the need
+to retain our freedoms makes us desire them (as well as the goods and
+services associated with them) significantly more than previously.
+
+When increasing scarcity-or-anything else interferes with our prior
+access to some item, we will react against the interference by wanting
+and trying to possess the item more than before.
+
+We rarely recognize that psychological reactance has caused us to want an item more.
+
+The scarcity principle not only applies to commodities but also other things like information. It doesn't have to be restricted for us to value it more, it just needs to be scarce.
+
+When not only want something when it is scarce, we want it more when
+we compete for it.
+
+The joy is not in experiencing a scarce commodity but in possessing
+it. Whenever we confront the scarcity pressures surrounding an item, we must also confront the question of what it is we want from it.
+
+We barely want a thing for the sake of owning it, we want it because
+of its utility value. Scarce resources do not taste or feel or sound or ride or work any better because of their limited availability.

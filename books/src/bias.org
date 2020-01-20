@@ -25,3 +25,15 @@ may be that an observer is more likely to assume a physically
 unattractive person is morally inferior to an attractive person,
 despite the lack of relationship between morality and physical
 appearance.
+* Loss aversion bias
+Loss aversion refers to people's tendency to prefer avoiding losses to
+acquiring equivalent gains: it is better to not lose $5 than to find
+$5.
+* Reactance theory
+When free choice is limited or threatened, the need to retain our
+freedoms makes us desire them (as well as the goods and services
+associated with them) significantly more than previously.
+
+When increasing scarcity-or-anything else interferes with out prior
+access to some item, we will react against the interference by wanting
+and trying to posses the item more than before.
