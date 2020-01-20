@@ -142,6 +142,24 @@ commitment-consistency trap:
 If I could go back in time, will I make the same choice again?
 #+END_VERSE
 
+
+Two quotes related with consistency that I couldn't stop thinking about:
+
+#+BEGIN_VERSE
+In the politics of human life, consistency is not a virtue.
+To be consistent means, according to the Oxford Universal Dictionary, “standing still or not moving.”
+Men must change with the times or die.
+
+   --Saul Alinsky
+#+END_VERSE
+
+#+BEGIN_VERSE
+When the facts change, I change my mind.
+What do you do, madam?
+
+   --Winston Churchill
+#+END_VERSE
+
 ** Chapter 4: Social proof
 #+BEGIN_VERSE
 Where all think alike, no one thinks very much.
