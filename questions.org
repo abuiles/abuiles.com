@@ -1,0 +1,13 @@
+#+OPTIONS: toc:nil author:nil timestamps:false html-postamble:nil
+* <2020-02-03 Mon>
+** Because I'm reading [[https://amzn.to/31lDPJU]["How not to Die"]]
+*** TODO How many people die from Salmonella in Colombia?
+*** TODO Is it easier to get Salmonella from cage-free chickens?
+*** TODO How many people die from Yersinia in Colombia?
+*** TODO How many people die from C. difficile in Colombia?
+** Because I'm experimenting with Keto
+*** DONE Is insulin still produced when you are on a Keto diet?
+Yes. When you consume carbs, they get turned into glucose. When the
+glucose level raises, the pancreas generates insulin to mobilize that
+glucose. When you are in keto, insulin is still generated but in lower
+quantities.

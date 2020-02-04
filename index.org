@@ -3,3 +3,4 @@
 
 1. [[https://blog.abuiles.com/][Blog]]
 2. [[https://abuiles.com/books][Books]]
+3. [[file:questions.org][Random ponderings]]
