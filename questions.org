@@ -2,9 +2,16 @@
 * <2020-02-03 Mon>
 ** Because I'm reading [[https://amzn.to/31lDPJU]["How not to Die"]]
 *** TODO How many people die from Salmonella in Colombia?
-*** TODO Is it easier to get Salmonella from cage-free chickens?
+
+- https://www.ins.gov.co/BibliotecaDigital/informe-de-vigilancia-por-laboratorio-salmonella-spp-colombia-1997-2018.pdf#search=salmonella
+
 *** TODO How many people die from Yersinia in Colombia?
+
+ Yersiniosis is an infection caused most often by eating raw or undercooked pork contaminated with Yersinia enterocolitica bacteria.
+
+
 *** TODO How many people die from C. difficile in Colombia?
+
 ** Because I'm experimenting with Keto
 *** DONE Is insulin still produced when you are on a Keto diet?
 Yes. When you consume carbs, they get turned into glucose. When the
