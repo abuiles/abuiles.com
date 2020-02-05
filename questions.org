@@ -1,20 +1,21 @@
-#+OPTIONS: toc:nil author:nil timestamps:false html-postamble:nil
+#+OPTIONS: author:nil timestamps:false html-postamble:nil
 * <2020-02-03 Mon>
-** Because I'm reading [[https://amzn.to/31lDPJU]["How not to Die"]]
-*** TODO How many people die from Salmonella in Colombia?
-
+** Because I'm reading [[https://amzn.to/31lDPJU]["How not to Die"]]*
+** DONE How many people die from Salmonella in Colombia?
 - https://www.ins.gov.co/BibliotecaDigital/informe-de-vigilancia-por-laboratorio-salmonella-spp-colombia-1997-2018.pdf#search=salmonella
 
-*** TODO How many people die from Yersinia in Colombia?
-
+No data
+*** DONE How many people die from Yersinia in Colombia?
  Yersiniosis is an infection caused most often by eating raw or undercooked pork contaminated with Yersinia enterocolitica bacteria.
 
-
-*** TODO How many people die from C. difficile in Colombia?
-
+No data
+*** DONE How many people die from C. difficile in Colombia?
+No data
 ** Because I'm experimenting with Keto
 *** DONE Is insulin still produced when you are on a Keto diet?
-Yes. When you consume carbs, they get turned into glucose. When the
-glucose level raises, the pancreas generates insulin to mobilize that
-glucose. When you are in keto, insulin is still generated but in lower
+Yes. When you are in keto, insulin is still generated but in lower
 quantities.
+* <2020-02-05 Wed>
+** Because I'm reading [[https://amzn.to/31lDPJU]["How not to Die"]]*
+*** TODO What are free radicals?
+*** TODO Example of beta cells levels for someone who died of type 2 diabetes
