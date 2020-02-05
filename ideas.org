@@ -1,0 +1,5 @@
+#+OPTIONS: author:nil timestamps:false html-postamble:nil
+Random things I wish existed.
+
+* Don't die
+An app which reminds me to eat foods that might help me live longer. If I haven't consumed X in the last Y time, then remind me to do it. Use foods from https://nutritionfacts.org/book/
