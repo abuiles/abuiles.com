@@ -1,0 +1,26 @@
+#+TITLE: How not to die Michael Greger
+#+TAGS: @nutrition
+
+* Notes
+#+BEGIN_REVIEW
+Rating: ⭐⭐⭐⭐
+
+This was one of my favorite books about the links between nutrition
+and disease.  Every year there is a new nutrition fad; we get overwhelmed
+with information telling us to eat more of this and less of that
+without real data to back such claims.
+
+This book goes through all the major disease in the U.S and then tell
+us what has been scientifically proven to help to prevent those
+disease.
+
+Many of the studies mentioned in the book were randomized double
+blind placebo control;  in the scenarios where the data wasn't yet
+backed by substantial evidence, the author would be clear about it and
+explain the reasoning for still backing up such data.
+
+I'm giving this book 4 stars and will revisit in a couple of
+months. As a quantified-self nerd, I'm eager to put into practice some
+of the things mentioned in the book.
+
+#+END_REVIEW
