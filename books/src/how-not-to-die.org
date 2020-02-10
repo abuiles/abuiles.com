@@ -24,3 +24,12 @@ months. As a quantified-self nerd, I'm eager to put into practice some
 of the things mentioned in the book.
 
 #+END_REVIEW
+
+** How not to die from Cholesterol
+
+To lower cholesterol, we need to avoid three things:
+1. Trans fats: junk food and animal products
+2. Saturated fats: https://epi.grants.cancer.gov/diet/foodsources/sat_fat/crf.html
+3. Cholesterol: https://epi.grants.cancer.gov/diet/foodsources/cholesterol/table1.html
+
+https://nutritionfacts.org/video/trans-fat-saturated-fat-and-cholesterol-tolerable-upper-intake-of-zero/
