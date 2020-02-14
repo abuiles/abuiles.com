@@ -25,11 +25,55 @@ of the things mentioned in the book.
 
 #+END_REVIEW
 
-** How not to die from Cholesterol
+** Bio markers
+- Optimal LDL cholesterol should be 50-70 mg/dl
 
-To lower cholesterol, we need to avoid three things:
+** How not to die from Heart Disease
+
+Cholesterol is the true risk factor for coronary heart disease.
+
+Optimal LDL cholesterol should be 50-70 mg/dl. To lower cholesterol, we need to avoid three things:
+
 1. Trans fats: junk food and animal products
 2. Saturated fats: https://epi.grants.cancer.gov/diet/foodsources/sat_fat/crf.html
 3. Cholesterol: https://epi.grants.cancer.gov/diet/foodsources/cholesterol/table1.html
 
-https://nutritionfacts.org/video/trans-fat-saturated-fat-and-cholesterol-tolerable-upper-intake-of-zero/
+Researches used to blame animal fat or animal protein for clogging the arteries, however, recent attention has shifted to a bacterial toxin known as "endotoxins". Certain food like meat appear to harbor bacteria that can trigger inflammation. The end-up up in the blood stream triggering an inflammatory reaction in your arteries. https://nutritionfacts.org/video/the-exogenous-endotoxin-theory/
+
+There is no clinical evidence to support that omega-3 helps preventing heart disease. (p20)
+
+*** What to eat?
+
+[[https://nutritionfacts.org/topics/cardiovascular-disease/][Foods high in nitrates, antioxidants, fiber, and potassium appear to help against heart disease.]]
+
+- Beans, including soy beans
+- Berries
+- Ceylon cinnamon
+- Citrus
+- Cocoa
+- Coffee
+- Dark chocolate
+- Dried apples
+- Flax seeds
+- Golden raisins and currants
+- Greens such as kale
+- Indian gooseberries
+- Nuts, including peanut butter
+- Oatmeal
+- Spices such as turmeric
+- Tea, especially hibiscus and green tea
+- Tomatoes
+- Whole grains, including red rice
+- [[https://nutritionfacts.org/video/benefits-of-garlic-powder-for-heart-disease/][Garlic]]
+- [[https://nutritionfacts.org/video/the-benefits-of-kale-and-cabbage-for-cholesterol/][Kale and cabbage]]
+
+[[https://nutritionfacts.org/video/flashback-friday-the-five-to-one-fiber-rule/][Fiber helps control cholesterol and blood sugar]]
+   - whole grains, vegetables, fruits, and legumes (beans, peas, and lentils).
+
+*** Questions
+**** Where does cholesterol come from?
+
+[[https://www.health.harvard.edu/heart-health/how-its-made-cholesterol-production-in-your-body][Our body (liver and intestines) produces 80% of the cholesterol we need to stay healthy and 20% come from food.]]
+
+#+attr_html: :height 500px
+[[https://www.health.harvard.edu/media/content/images/Cholesterol-HC0216-figure03.jpg]]
