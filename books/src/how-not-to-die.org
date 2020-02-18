@@ -77,7 +77,7 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 
 #+attr_html: :height 500px
 [[https://www.health.harvard.edu/media/content/images/Cholesterol-HC0216-figure03.jpg]]
-** How not to die from Lung Cancer
+** How not to die from Lung Diseases
 - Don't smoke
 - Turmeric/curcumin act as carcinogenic blockers and antioxidants, that help prevent the initial triggering of mutations.
 - A quarter of lung cancers occur to people who never smoke.
@@ -93,3 +93,26 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - Fruits and vegetables
 - Broccoli
 - Cruciferous and allium veggies
+** How not to die from Brain Diseases
+*** Strokes
+- What is a stroke? A stroke can be thought as a "brain attack" - like "heart attacks", but the rupturing plaques in your arteries cut off blood flow to parts of the brain rather than to parts of the heart. It deprives the brain from oxygen and kills off the part fed by the clogged artery. This is called a ischemic stroke.
+- A healthy diet can reduce stroke risk by reducing cholesterol and blood  pressure while improving blood flow and antioxidant capacity.
+- [[file:fiber-stroke.pdf][A number of studies have shown that a high fiber intake may help ward off stroke]].
+- Increasing fiber intake by just seven grams a day may be associated with a 7% risk reduction.
+- Fiber is naturally concentrated in whole plant foods.
+- Processed foods have less, and animal-derived foods have no fiber at all.
+- 🚨 There is no clear link yet how fiber protects the brain . The current hypothesis is that fiber helps control cholesterol and blood sugar levels, which can help reduce the amount of artery-clogging plaque in your brain's  blood vessels.
+- High fiber diets may also lower blood pressure which reduces the risk of brain bleeds.
+- [[https://www.ncbi.nlm.nih.gov/pubmed/23317525][The best available science suggest you can minimize stroke by eating a minimum of 25 grams a day of soluble fiber (fiber that dissolves in water, typically found in beans, oats, nuts and berries) and 47 daily grams of insoluble fiber (fiber that does not dissolve in water, found primary in whole grains, such as brown rice and whole wheat)]], found primary in whole grain, such as brown rice and whole wheat)
+
+*** Alzheimer's
+
+- What is Alzheimer's? It is more like a "mind attack" - instead of cholesterol-filled plaques in your arteries, plaques made of a substance called amyloid develop in the brain tissue itself, associated with the loss of memory and, eventually, loss of life.
+
+*** What to eat?
+- Oatmeal
+- Berries
+- Beans
+- Broccoli
+- 25 grams a day of soluble fiber: Like beans, oats, nuts and berries
+- 47 daily grams of insoluble fiber
