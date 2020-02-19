@@ -95,24 +95,54 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - Cruciferous and allium veggies
 ** How not to die from Brain Diseases
 *** Strokes
-- What is a stroke? A stroke can be thought as a "brain attack" - like "heart attacks", but the rupturing plaques in your arteries cut off blood flow to parts of the brain rather than to parts of the heart. It deprives the brain from oxygen and kills off the part fed by the clogged artery. This is called a ischemic stroke.
+- What is a stroke? A stroke can be thought as a "brain attack" - like
+  "heart attacks", but the rupturing plaques in your arteries cut off
+  blood flow to parts of the brain rather than to parts of the
+  heart. It deprives the brain from oxygen and kills off the part fed
+  by the clogged artery. This is called a ischemic stroke.
 - A healthy diet can reduce stroke risk by reducing cholesterol and blood  pressure while improving blood flow and antioxidant capacity.
 - [[file:fiber-stroke.pdf][A number of studies have shown that a high fiber intake may help ward off stroke]].
 - Increasing fiber intake by just seven grams a day may be associated with a 7% risk reduction.
 - Fiber is naturally concentrated in whole plant foods.
 - Processed foods have less, and animal-derived foods have no fiber at all.
-- 🚨 There is no clear link yet how fiber protects the brain . The current hypothesis is that fiber helps control cholesterol and blood sugar levels, which can help reduce the amount of artery-clogging plaque in your brain's  blood vessels.
+-  There is no clear link yet how fiber protects the brain . The
+  current hypothesis is that fiber helps control cholesterol and blood
+  sugar levels, which can help reduce the amount of artery-clogging
+  plaque in your brain's blood vessels.
 - High fiber diets may also lower blood pressure which reduces the risk of brain bleeds.
-- [[https://www.ncbi.nlm.nih.gov/pubmed/23317525][The best available science suggest you can minimize stroke by eating a minimum of 25 grams a day of soluble fiber (fiber that dissolves in water, typically found in beans, oats, nuts and berries) and 47 daily grams of insoluble fiber (fiber that does not dissolve in water, found primary in whole grains, such as brown rice and whole wheat)]], found primary in whole grain, such as brown rice and whole wheat)
+- [[https://www.ncbi.nlm.nih.gov/pubmed/23317525][The best available science suggest you can minimize stroke by eating
+  a minimum of 25 grams a day of soluble fiber (fiber that dissolves
+  in water, typically found in beans, oats, nuts and berries) and 47
+  daily grams of insoluble fiber (fiber that does not dissolve in
+  water, found primary in whole grains, such as brown rice and whole
+  wheat)]].
+- Potassium can help reduce stroke risk.
+- Bananas have been marketed as rich in potassium but they are not.
+- Citrus has been associated with reduced stroke risk.
+- Lack of sleep has been associated with stroke risk.
+- Antioxidant rich foods might help prevent stroke.
+- On average, plant foods contain 64 times more antioxidants that animal foods.
+- [[https://bit.ly/antioxidantfoods][The antioxidant food table]].
+- The food category that averages most antioxidants is herbs and spices.
+- Antioxidant rich diets appear to protect against stroke by preventing
+  the circulation of oxidized fats in the bloodstream that can damage
+  the sensitive walls of small blood vessels in the brain.
+- The can also help decrease artery stiffness, prevent blood clots
+  from forming, and lower blood pressure and inflammation.
 
 *** Alzheimer's
-
-- What is Alzheimer's? It is more like a "mind attack" - instead of cholesterol-filled plaques in your arteries, plaques made of a substance called amyloid develop in the brain tissue itself, associated with the loss of memory and, eventually, loss of life.
-
+- What is Alzheimer's? It is more like a "mind attack" - instead of
+  cholesterol-filled plaques in your arteries, plaques made of a
+  substance called amyloid develop in the brain tissue itself,
+  associated with the loss of memory and, eventually, loss of life.
 *** What to eat?
-- Oatmeal
-- Berries
-- Beans
-- Broccoli
-- 25 grams a day of soluble fiber: Like beans, oats, nuts and berries
-- 47 daily grams of insoluble fiber
+- Oatmeal.
+- Berries.
+- Beans.
+- Broccoli.
+- 25 grams a day of soluble fiber: Like beans, oats, nuts and berries.
+- 47 daily grams of insoluble fiber.
+- Potassium rich foods like: greens, beans, and sweet potatoes.
+- Citrus fruits.
+- Foods rich in antioxidants.
+- Herbs and spices.
