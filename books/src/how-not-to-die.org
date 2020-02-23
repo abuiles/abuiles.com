@@ -176,3 +176,83 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - Herbs and spices (which are rich in antioxidants).
 - Some foods rich in [[https://nutritionfacts.org/topics/polyphenols/][polyphenols]] are associated with [[https://nutritionfacts.org/video/how-to-slow-brain-aging-by-two-years/][delayed cognitive aging.]]
 - Saffron.
+
+** How not to die from Digestive Cancer
+
+- There are different kinds of digestive cancers, like:
+  1. Colorectal (one of the most treatable if caught early)
+  2. Pancreatic (a death sentence)
+  3. Esophageal (affects the tube between mouth and the stomach)
+
+- The foods you eat can indirectly affect cancer risk, for example, by exacerbating acid reflux, a risk factor for esophageal cancer, or through direct contact with the lining of the digestive tract.
+
+*** Colorectal cancer
+
+- The emergence of colorectal cancer can be broken down into three stages:
+  1. The first sign is what are called "aberrant crypt foci" or abnormal clusters of cells along the lining of the colon.
+  2. Next come polyps that grow from that inner surface.
+  3. A benign polyp transforms into a cancerous one. The cancer can eat through the wall of the colon and spread throughout the body.
+
+- [[https://cancerpreventionresearch.aacrjournals.org/content/4/3/354.figures-only][Investigators have found that curcumin consumption could reduce the number of  cancer-associated structures in the rectum.]]
+
+- Spices consumption in India might be relate with its low cancer rate, but they also consume other foods that are packed with another class of cancer-fighting compounds called phytates.
+
+*** Phytates
+
+- Phytates have been shown to detoxify excess iron in the body, which otherwise can generate a particularly harmful kind of free radical called hydroxyl radicals.
+- [[https://acsjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/1097-0142(19850815)56:4%253C717::AID-CNCR2820560402%253E3.0.CO;2-4][Phytates are found in all whole grains, beans, nuts, and seeds.]]
+- Those who eat ore high-phythate foods tend to have a greater bone mineral density, less bone loss, and fewer hip fractures.
+- [[https://www.ncbi.nlm.nih.gov/pubmed/6862688][There may be as much as an height-fold difference in colorectal cancer risk between the two extremes -- high-vegetable, low-meat diets and low-vegetable, high-meat diets.]]
+- Is not enough to cut down meat intake, you also need to eat more plants.
+- [[https://www.tandfonline.com/doi/abs/10.1207/s15327914nc5502_1?journalCode=hnuc20][Besides affecting the cancer cells directly, phytates have been found to boost the activity of natural killer cells, which are white blood cells that form your first line of defense by hunting down and disposing of cancer cells.]]
+- Phytates can starve  tumors of their blood supply.
+- Phytates can cause cancer cells to apparently revert back to their normal state.
+
+- What does meat contain that may raise the risk of premature death? One of the possibilities is heme iron, the form of  iron predominantly in blood and muscle.
+- Iron can be considered a double edge-sword: too little of it might produce anemia, too much and you may increase risk of cancer and heart disease.
+
+*** Pancreatic cancer
+- This cancer isn't very common, however, it is lethal. Just 6% of patients survive five years after diagnosis.
+- Risk factors include obesity and heavy alcohol consumption.
+- There has been debate between the risk of pancreatic cancer and fat consumption - however, fat from animal sources was significantly associated with pancreatic cancer risk, but no correlation was found with the consumption of plant fats.
+- There are viruses known to cause cancer in birds, and there are concerns this viruses might be causing cancer in humans, however, this is unknown.
+- Those who slaughter chicken have a 9 times the odds of pancreatic cancer and liver cancer.
+
+
+*** Esophageal cancer
+- Esophageal cancer occurs when cells develop in the esophagus, the muscular tube carrying food from your mouth to your stomach.
+- Typically, the cancer arises in the lining of the esophagus and then invades the outer layers before metastasizing to other organs.
+- Acid reflux can lead to adenocarcinoma (the most common type of esophageal cancer)
+- Studies between the links of diet, Barrett's esophagus and esophageal cancer, have found  that the most consistent association with cancer was the consumption of meat and high-fat meals.
+- Different meats were associated with cancers in different locations:
+  1. Red meat is strongly associated with cancer in the esophagus.
+  2. Poultry is more strongly associated with cancer down around the stomach esophagus border.
+- Within five minutes of eating fat, your sphincter muscle at the top of your stomach - which acts like a valve to keep down food inside the stomach - relaxes, allowing acids to creep back up into the esophagus.
+
+#+attr_html: :height 500px
+[[https://1ft7bh1ibpme40p67q1ac5er-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/bigstock-136827440-1.jpg][https://1ft7bh1ibpme40p67q1ac5er-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/bigstock-136827440-1.jpg]]
+
+- Centering your diet around antioxidant-rich plant foods may cut in half your odds of esophageal cancer.
+
+- The most protective foods for cancer at the esophagus-stomach border appear to be red, orange, and dark-green vegetables, berries, apples, and citrus fruits.
+
+- High-fiber intake may reduce the incidence of esophageal cancer by as much as one-third by helping to prevent the root cause of many cases of acid reflux: the herniation of part of the stomach up into the chest cavity (known as hiatal hernia).
+
+- [[https://www.ncbi.nlm.nih.gov/pubmed/3135745][Humans evolved eating huge amounts of fiber, likely in excess of one hundred grams daily.]]
+
+*** What to eat?
+- Turmeric.
+- Dark-green, leafy vegetables (rich in phytates).
+- Legumes: beans, split peas, chickpeas, and lentils.
+- Berries.
+- Whole grains (also rich in Iron).
+- Nuts.
+- Seeds.
+- Dried fruit.
+- Avoid drinking tea with meals since it can inhibit iron absorption.
+- Consuming vitamin C-rich foods can improve iron absorption.
+- The most protective foods for cancer at the esophagus-stomach border appear to be red, orange, and dark-green vegetables, berries, apples, and citrus fruits.
+- Strawberries.
+
+** TODO Foods rich in Phytates
+** TODO Foods to improve iron absorption.
