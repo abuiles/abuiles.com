@@ -37,3 +37,6 @@ associated with them) significantly more than previously.
 When increasing scarcity-or-anything else interferes with out prior
 access to some item, we will react against the interference by wanting
 and trying to posses the item more than before.
+* TODO Affect heuristic
+* TODO Just-world fallacy
+* TODO Package-deal fallacy
