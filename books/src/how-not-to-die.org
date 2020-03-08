@@ -254,5 +254,35 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - The most protective foods for cancer at the esophagus-stomach border appear to be red, orange, and dark-green vegetables, berries, apples, and citrus fruits.
 - Strawberries.
 
+** How not to die from Infections
+- You don't need to come in contact with a sick person to fall ill with an infection. There are latent infections that may exist within you, waiting to strike should your immune function falter. This is why we need to keep our immune system healthy.
+- The immune system:
+  - It is formed of various organs, white blood cells, and proteins called antibodies.
+  - The first layer of defense is the skin.
+  - White blood cells (such as neutrophils) attack pathogens.
+  - Natural killer cells put your cells out of misery if they become cancerous or infected with a virus.
+  - How do natural killer cells recognize pathogens and infected cells?
+    - The are often marked for destruction by antibodies, which are a special proteins made by another type of white blood cell, known as B cells, that home in like smart bombs and stick to invaders.
+    - B cells are specialized, the produced antibodies for specific pathogens.
+    - For example, if platypus poison is detected in your body, B cells begin dividing like crazy, and soon you have a whole swarm of clones each producing millions of antibodies until you fend off the toxin.
+    - This is how the immune system works.
+- As we get older our immune function declines but it can be improved with nutrition. See "What to eat?" so recommendations
+- Exercising helps boosting the immune system.
+- Eggs and poultry have are associated with salmonella.
+- Pork has been associated with Yersinia.
+- Meat seems to be a source of c. difficile.
+- Meat producers feed antibiotics to farm animals to promote growth or prevent disease. Antibiotic residues can then end up in the meat people eat.
+
+*** What to eat?
+- Kale
+- Broccoli
+- Berries boost your levels of natural killers cells
+- Blueberries
+- Cardamom-infused blueberry muffins
+- Food high in probiotics
+- Nutritional yeasts after exercising.
+- Mushrooms
+
+
 ** TODO Foods rich in Phytates
 ** TODO Foods to improve iron absorption.
