@@ -95,11 +95,8 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - Cruciferous and allium veggies
 ** How not to die from Brain Diseases
 *** Strokes
-- What is a stroke? A stroke can be thought as a "brain attack" - like
-  "heart attacks", but the rupturing plaques in your arteries cut off
-  blood flow to parts of the brain rather than to parts of the
-  heart. It deprives the brain from oxygen and kills off the part fed
-  by the clogged artery. This is called a ischemic stroke.
+- What is a stroke? A stroke can be thought as a "brain attack" - like "heart attacks", but the rupturing plaques in your arteries cut off blood flow to parts of the brain rather than to parts of the heart. It deprives the brain from oxygen and kills off the part fed by the clogged artery. This is called a ischemic stroke.
+- The following webpage has some visualizations on how different brain strokes look like https://www.umassmed.edu/strokestop/modules/module-1-stroketia/ct-scans/visualizing-stroke/
 - A healthy diet can reduce stroke risk by reducing cholesterol and blood  pressure while improving blood flow and antioxidant capacity.
 - [[file:fiber-stroke.pdf][A number of studies have shown that a high fiber intake may help ward off stroke]].
 - Increasing fiber intake by just seven grams a day may be associated with a 7% risk reduction.
@@ -232,6 +229,8 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 #+attr_html: :height 500px
 [[https://1ft7bh1ibpme40p67q1ac5er-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/bigstock-136827440-1.jpg][https://1ft7bh1ibpme40p67q1ac5er-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/bigstock-136827440-1.jpg]]
 
+- Image from https://www.refluxgate.com/
+
 - Centering your diet around antioxidant-rich plant foods may cut in half your odds of esophageal cancer.
 
 - The most protective foods for cancer at the esophagus-stomach border appear to be red, orange, and dark-green vegetables, berries, apples, and citrus fruits.
@@ -282,6 +281,22 @@ There is no clinical evidence to support that omega-3 helps preventing heart dis
 - Food high in probiotics
 - Nutritional yeasts after exercising.
 - Mushrooms
+
+** How not to die from diabetes
+- Also known as high blood sugar, diabetes is when we have a high levels of sugar in the blood.
+- Diabetes can happen because:
+   - Your pancreas isn't producing enough insulin which is the hormone that help us keep blood levels in check (Type 1 - insulin-deficiency)
+   - Your body becomes resistant to insulin effects (Type 2 - insulin-Resistance)
+- When we have too much sugar in the blood, it can overwhelm the kidneys and spill into the urine.
+- The pathological agents of type 2 diabetes are identified as "high-fat and high-calorie diets"
+- What can happen when we have diabetes?
+  - When we eat carbs, they get turned into glucose which is the primary source of energy of ours cells. To go from the blood to the cells, sugar needs an agent called "insulin" which is produced by the pancreas. When insulin stop working, our blood's sugar level rises, leading to things like blindness, kidney failure, heart attack, and stoke.
+- What produces insulin deficiency? The exact cause is unknown, but with this type, the immune system destroys the insulin-producing beta cells int the pancreas.
+- What about type 2? In this scenario, the body produces insulin but it doesn't work well. The accumulation of fat inside our muscle's cells and liver, interfere with the action of insulin.
+- The prevention and treatment of type 2 boils down to diet and life style decisions.
+*** What to eat?
+- There is nothing specific here, but the trick is not being overweight - a plant based diet becomes a good option here.
+- There are some ideas around diabetes prevention and management through fasting, I read about this in Jason Fung book "The complete guide to fasting"
 
 
 ** TODO Foods rich in Phytates
